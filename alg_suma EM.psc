@@ -6,6 +6,6 @@ Algoritmo alg_suma
 	
 	irt_suma = int_numero1 + int_numero2
 	
-	Escribir ' El resultado de la operacion de ', int_numero1, ' + ', int_numero2, ' es ', irt_suma
+	Escribir ' El resultado de la operacion de ', int_numero1, ' + ', int_numero2, ' es ', irt_suma, ' Mi primera chamba '
 	
 FinAlgoritmo
